@@ -23,6 +23,7 @@ import gericht from '../assets/gericht.png';
 import culinary_canvas from '../assets/culinary_canvas.jpg';
 import restaurant_logo from '../assets/restaurant_logo.jpg';
 
+
 export default {
   bg,
   chef,
