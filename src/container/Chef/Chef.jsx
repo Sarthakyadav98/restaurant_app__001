@@ -15,9 +15,9 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote" />
-          <p className="p__opensans"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere totam esse rerum, dolore reprehenderit veritatis!</p>
+          <p className="p__opensans"> At The Local Craft Food, we believe in the power of fresh, locally sourced ingredients to create unforgettable culinary experiences.</p>
         </div>
-      <p className="p__opensans">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere totam esse rerum, dolore reprehenderit veritatis! Iste illum neque dicta! Provident a, amet et unde omnis quos error fuga minima rerum.</p>
+      <p className="p__opensans"> Our commitment to sustainability and quality drives us to innovate while honoring traditional techniques. Every dish we serve is a reflection of our passion for excellence and our dedication to delighting our guests with the finest flavors.</p>
       </div>
       <div className="app__chef-sign"><p>Kevin Luo</p>
       <p className="p__opensans">Chef &Founder</p>

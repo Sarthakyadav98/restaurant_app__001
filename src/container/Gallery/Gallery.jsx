@@ -28,7 +28,7 @@ const Gallery = () => {
       <div className="app__gallery-content">
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
-        <p className="p__opensans" style ={{color:'#AAA', marginTop:'2rem'}}>Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua. Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat.</p>  
+        <p className="p__opensans" style ={{color:'#AAA', marginTop:'2rem'}}>Explore the vibrant and delicious world of The Local Craft Food through our photo gallery. Each image captures the essence of our culinary creations and the inviting ambiance of our restaurant.</p>  
         <button type="button" className="custom__button" >View More</button>
       </div>
       <div className="app__gallery-images">

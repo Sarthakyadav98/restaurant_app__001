@@ -16,9 +16,9 @@ const Footer = () => (
     <div className='app__footer-links'>
       <div className='app__footer-links_contact'>
         <h1 className='app__footer-headtext'>Contact</h1>
-        <p className='p__opensans'> 1234 Main Street, Anytown, USA</p>
-        <p className='p__opensans'> +1 800-555-6789</p>
-        <p className='p__opensans'> +1 800-555-6789</p>
+        <p className='p__opensans'>  an IHG Hotel CW9 75G, Crowne Plaza, New Delhi</p>
+        <p className='p__opensans'> +91 110-555-6789</p>
+        <p className='p__opensans'> +91 110-555-6789</p>
       </div>
       <div className='app__footer-links_logo'>
         <img src={images.restaurant_logo} alt='footer logo' style={{borderRadius:100}}/>
